@@ -1,0 +1,11 @@
+Apple Macbook Terminal Process
+•	Download Python on Apple Macbook.
+•	Check installations and latest.
+  o	Python3 --version
+  o	Python3 -m pip install “xlwings”
+  o	Python3 -m pip install “openpyxl”
+  o	Python3 -m pip install “pandas”
+  o	Python3 -m pip install --upgrade pandas
+  o	Python3 -m pip install “requests”
+  o	Python3 -m pip install “beautifulsoup4”
+  o	Python3 -m pip install “win32”
