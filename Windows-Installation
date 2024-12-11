@@ -1,0 +1,13 @@
+Windows Terminal (Windows Powershell) Process
+•	Download Python on Bosch desktop.
+•	Only run the installations below when disconnected from company Wi-Fi, Cisco, and company hardwire. Otherwise, you will receive syntax errors.
+•	Check installations and latest.
+  o	Pip --version
+  o	Pip list
+  o	Python --version
+  o	Pip install pandas
+  o	Pip install openpyxl
+  o	Pip install beautifulsoup4
+  o	Pip install requests
+  o	Pip install xlwings
+  o	Pip install win32
